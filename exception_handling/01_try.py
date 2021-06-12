@@ -12,3 +12,4 @@ while(True):
         print(f"Invalid input {e}")
 
 print("Thanks for playing this game 😄")
+ 
